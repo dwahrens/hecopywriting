@@ -20,6 +20,15 @@ body {
   background-repeat:repeat;
 }
 
+.has-centered-image {
+  width: 20%;
+  align-items: center;
+  justify-content: center;
+  margin-right: auto;
+  margin-left: auto;
+  margin-bottom: 1rem;
+}
+
 .header {
   font-family: "Lobster";
   font-size: 6em;
